@@ -1,0 +1,11 @@
+#inputpanel {
+  margin: 0 auto;
+  background-color: #4180d8;
+  width: 400px;
+}
+
+#countrieslist {
+  margin: auto;
+  background-color: #629ee1;
+  width: 600px;
+}
